@@ -9,6 +9,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=darcula&border_radius=0.5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=darcula&border_radius=1" alt="Top Languages" />
 </div>
 
