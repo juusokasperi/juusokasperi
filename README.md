@@ -5,7 +5,6 @@
 </p>
 
 - Open studies at Helsinki University; Python 1 & 2, basics of relational databases & the complete <a href="https://fullstackopen.com/en/">FullStackOpen</a> course. 
-- Beginning studies at Hive Helsinki (part of the 42 School Network).
 
 ---
 
