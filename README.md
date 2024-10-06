@@ -9,6 +9,6 @@ Open studies at Helsinki University; Python 1 & 2, basics of relational database
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=monokai" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=darcula" alt="Top Languages" />
 </div>
 
