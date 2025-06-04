@@ -1,7 +1,7 @@
 # <p align="center">GitHub / juusokasperi</p> #
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juusokasperi&label=Visitors&color=red&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=juusokasperi&label=Visitors&color=red&style=for-the-badge" /> ![42 Network](https://img.shields.io/badge/42-Student-000000?style=flat&logo=42&logoColor=white)
 </p>
 
 - Coding studies at Hive Helsinki, finished projects found in [this repository](https://github.com/juusokasperi/42)
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=darcula&border_radius=1" alt="Top Languages" />
 </div>
 
-![42 Network](https://img.shields.io/badge/42-Student-000000?style=flat&logo=42&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
