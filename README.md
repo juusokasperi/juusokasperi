@@ -1,7 +1,7 @@
 # <p align="center">GitHub / juusokasperi</p> #
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juusokasperi&label=Visitors&color=red&style=for-the-badge" /> ![42 Network](https://img.shields.io/badge/42-Student-000000?style=flat&logo=42&logoColor=white)
+  <img src="https://komarev.com/ghpvc/?username=juusokasperi&label=Visitors&color=red&style=for-the-badge" /> <img src="https://img.shields.io/badge/42-Student-000000?style=flat&logo=42&logoColor=white" />
 </p>
 
 - Coding studies at Hive Helsinki, finished projects found in [this repository](https://github.com/juusokasperi/42)
