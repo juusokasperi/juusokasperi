@@ -12,8 +12,11 @@
 ## Some of my favorite projects
 
 [IRC Server](https://github.com/juusokasperi/ft_irc): A fully functional IRC server with non-blocking sockets and polling. Written in C++.
+
 [Mini Shell](https://github.com/juusokasperi/42/tree/main/minishell): A small-scale replication of BASH, written in C.
+
 [Online Pong](https://github.com/juusokasperi/ft_transcendence/): A competitive game hub with an online-playable 3D Pong. User management, ELO rating, queue buckets for matchmaking, game invitations, 4-player tournaments, load balancing for multiple game servers, Prometheus, Grafana, ELK stack. Microservices-based, quite big project, done in a group of 5 people. Written in TypeScript.
+
 
 ---
 
