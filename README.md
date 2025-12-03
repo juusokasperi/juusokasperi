@@ -1,4 +1,3 @@
-# <p align="center">GitHub / juusokasperi</p> #
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juusokasperi&label=Visitors&color=red&style=for-the-badge" /><br />
@@ -19,8 +18,6 @@
 
 
 ---
-
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
