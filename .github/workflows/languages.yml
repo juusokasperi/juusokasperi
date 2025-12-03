@@ -24,6 +24,6 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
-        hide-keys: general, contributions, repositories
+        hide-keys: general, contributions, repositories, contributedTo
       env:
         GITHUB_TOKEN: ${{secrets.STATS_TOKEN}}
