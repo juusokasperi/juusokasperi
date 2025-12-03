@@ -20,9 +20,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juusokasperi&layout=compact&theme=darcula&border_radius=1" alt="Top Languages" />
-</div>
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
