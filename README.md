@@ -14,8 +14,11 @@
 
 [Mini Shell](https://github.com/juusokasperi/42/tree/main/minishell): A small-scale replication of BASH, written in C.
 
+[JIT C Compiler](https://github.com/juusokasperi/tinyCompile): A tiny C compiler. Features a lexer, parser, semantical analysis, IR code generation, conversion to bytecode and execution.
+
 [Online Pong](https://github.com/juusokasperi/ft_transcendence/): A competitive game hub with an online-playable 3D Pong. User management, ELO rating, queue buckets for matchmaking, game invitations, 4-player tournaments, load balancing for multiple game servers, Prometheus, Grafana, ELK stack. Microservices-based, quite big project, done in a group of 5 people. Written in TypeScript.
 
+[Ray Tracer](https://github.com/juusokasperi/ray-tracer): A raytracer built from scratch in C. Features basic shapes, anti-aliasing, hard and soft shadows, multithreading with thread pools, refractions. Memory managed with a custom memory arena implementation.
 
 ---
 
