@@ -20,6 +20,10 @@
 
 [Ray Tracer](https://github.com/juusokasperi/ray-tracer): A raytracer built from scratch in C. Features basic shapes, anti-aliasing, hard and soft shadows, multithreading with thread pools, refractions. Memory managed with a custom memory arena implementation.
 
+[Memarena](https://github.com/juusokasperi/memarena): A memory arena allocator implementation that makes memory management in C a breeze.
+
+[tinyCompile](https://github.com/juusokasperi/tinyCompile): A JIT C compiler, under construction.
+
 ---
 
 <p align="center">
