@@ -22,8 +22,6 @@
 
 [Memarena](https://github.com/juusokasperi/memarena): A memory arena allocator implementation that makes memory management in C a breeze.
 
-[tinyCompile](https://github.com/juusokasperi/tinyCompile): A JIT C compiler, under construction.
-
 ---
 
 <p align="center">
