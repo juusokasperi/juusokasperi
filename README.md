@@ -5,8 +5,8 @@
 </p>
 
 - Studying software development at Hive Helsinki (42 School), Finland. [Finished projects here.](https://github.com/juusokasperi/42)
-- Programming in C, C++, SQL, TypeScript, with a touch of Assembly.
-- In addition, open studies at Helsinki University; Python 1 & 2, basics of relational databases & the complete <a href="https://fullstackopen.com/en/">FullStackOpen</a> course.
+- Systems programming in C, C++, with a touch of Assembly.
+- In addition, open studies at Helsinki University; Python 1 & 2, basics of relational databases & the complete <a href="https://fullstackopen.com/en/">FullStackOpen</a> course. This includes TypeScript, Docker, Node, React, SQL, NoSQL etc.
 
 ## Some of my favorite projects
 
