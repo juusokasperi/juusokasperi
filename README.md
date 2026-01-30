@@ -5,7 +5,7 @@
 </p>
 
 - Studying software development at Hive Helsinki (42 School), Finland. [Finished projects here.](https://github.com/juusokasperi/42)
-- Systems programming in C, C++, with a touch of Assembly.
+- Systems programming in C, C++, x86_64 Assembly.
 - In addition, open studies at Helsinki University; Python 1 & 2, basics of relational databases & the complete <a href="https://fullstackopen.com/en/">FullStackOpen</a> course. This includes TypeScript, Docker, Node, React, SQL, NoSQL etc.
 
 ## Some of my favorite projects
@@ -27,6 +27,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
