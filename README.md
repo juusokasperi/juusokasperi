@@ -4,11 +4,14 @@
   <img src="https://img.shields.io/badge/42-Student-000000?style=flat&logo=42&logoColor=white" />
 </p>
 
-- Studying software development at Hive Helsinki (42 School), Finland. [Finished projects here.](https://github.com/juusokasperi/42)
+- Software engineer at Nokia.
+- Software development studies at Hive Helsinki (42 School), Finland. [Finished projects here.](https://github.com/juusokasperi/42)
 - Systems programming in C, C++, x86_64 Assembly.
 - In addition, open studies at Helsinki University; Python 1 & 2, basics of relational databases & the complete <a href="https://fullstackopen.com/en/">FullStackOpen</a> course. This includes TypeScript, Docker, Node, React, SQL, NoSQL etc.
 
 ## Some of my favorite projects
+
+[U-Boot](https://github.com/u-boot/u-boot/commits?author=juusokasperi): Contributor to [Das U-Boot, Universal Bootloader](https://github.com/u-boot/u-boot).
 
 [IRC Server](https://github.com/juusokasperi/ft_irc): A fully functional IRC server with non-blocking sockets and polling. Written in C++.
 
